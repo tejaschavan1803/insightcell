@@ -1,0 +1,11 @@
+Candidate_Cell_Type,Marker_Gene
+B_cells,MS4A1
+B_cells,CD79A
+Monocytes,S100A8
+NK_cells,NKG7
+NK_cells,GNLY
+NK_cells,PRF1
+Platelets,PPBP
+Platelets,PF4
+Dendritic_cells,FCER1A
+Dendritic_cells,CST3
